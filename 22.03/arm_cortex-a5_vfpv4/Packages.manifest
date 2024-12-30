@@ -1,0 +1,52 @@
+Package: far2l-full
+Version: 2.6.4.20241229
+Depends: libc, libstdcpp6, libarchive-noopenssl, libneon, libssh, libxml2
+Source: /__w/far2l-openwrt/far2l-openwrt/far2l
+SourceName: far2l-full
+License: GPL-2
+LicenseFiles: LICENSE.txt
+Section: utils
+SourceDateEpoch: 1721689001
+Architecture: arm_cortex-a5_vfpv4
+Installed-Size: 4600256
+Filename: far2l-full_2.6.4.20241229_arm_cortex-a5_vfpv4.ipk
+Size: 4573820
+SHA256sum: 89be0a9152d5475a19d50a083a8d8226eac8ce4487bd77810dc1c42723590e25
+Description:  Linux port of FAR Manager v2 (http://farmanager.com)
+ .
+ Build with Colorer and NetRocks plugins
+
+Package: far2l-tiny
+Version: 2.6.4.20241229
+Depends: libc, libstdcpp6
+Source: /__w/far2l-openwrt/far2l-openwrt/far2l
+SourceName: far2l-tiny
+License: GPL-2
+LicenseFiles: LICENSE.txt
+Section: utils
+SourceDateEpoch: 1721689001
+Architecture: arm_cortex-a5_vfpv4
+Installed-Size: 1303121
+Filename: far2l-tiny_2.6.4.20241229_arm_cortex-a5_vfpv4.ipk
+Size: 1300297
+SHA256sum: a1ea916300a37aa8e7847e45c9b1c720f6c1bace42442cac21baccf867a4457a
+Description:  Linux port of FAR Manager v2 (http://farmanager.com)
+ .
+ Build with no plugins, only english language
+
+Package: far2l
+Version: 2.6.4.20241229
+Depends: libc, libstdcpp6, libarchive-noopenssl
+Source: /__w/far2l-openwrt/far2l-openwrt/far2l
+SourceName: far2l
+License: GPL-2
+LicenseFiles: LICENSE.txt
+Section: utils
+SourceDateEpoch: 1721689001
+Architecture: arm_cortex-a5_vfpv4
+Installed-Size: 2559174
+Filename: far2l_2.6.4.20241229_arm_cortex-a5_vfpv4.ipk
+Size: 2553996
+SHA256sum: ddf7d77402460e7fba87bbc09d98ca5c6fe2ea69adee26dad89e9fa28cc79292
+Description:  Linux port of FAR Manager v2 (http://farmanager.com)
+

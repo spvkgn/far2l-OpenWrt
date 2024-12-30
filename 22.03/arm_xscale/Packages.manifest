@@ -1,0 +1,52 @@
+Package: far2l-full
+Version: 2.6.4.20241229
+Depends: libc, libstdcpp6, libarchive-noopenssl, libneon, libssh, libxml2
+Source: /__w/far2l-openwrt/far2l-openwrt/far2l
+SourceName: far2l-full
+License: GPL-2
+LicenseFiles: LICENSE.txt
+Section: utils
+SourceDateEpoch: 1721689001
+Architecture: arm_xscale
+Installed-Size: 4677122
+Filename: far2l-full_2.6.4.20241229_arm_xscale.ipk
+Size: 4651273
+SHA256sum: fd8a018025ce03062b092fc74b392eac2a8d565a5d430f72fe3170c37c59c044
+Description:  Linux port of FAR Manager v2 (http://farmanager.com)
+ .
+ Build with Colorer and NetRocks plugins
+
+Package: far2l-tiny
+Version: 2.6.4.20241229
+Depends: libc, libstdcpp6
+Source: /__w/far2l-openwrt/far2l-openwrt/far2l
+SourceName: far2l-tiny
+License: GPL-2
+LicenseFiles: LICENSE.txt
+Section: utils
+SourceDateEpoch: 1721689001
+Architecture: arm_xscale
+Installed-Size: 1325730
+Filename: far2l-tiny_2.6.4.20241229_arm_xscale.ipk
+Size: 1323045
+SHA256sum: 4cd92f4d28620b242c5180d6fbce820a88f1e23f1353e326abaa92a2056163ba
+Description:  Linux port of FAR Manager v2 (http://farmanager.com)
+ .
+ Build with no plugins, only english language
+
+Package: far2l
+Version: 2.6.4.20241229
+Depends: libc, libstdcpp6, libarchive-noopenssl
+Source: /__w/far2l-openwrt/far2l-openwrt/far2l
+SourceName: far2l
+License: GPL-2
+LicenseFiles: LICENSE.txt
+Section: utils
+SourceDateEpoch: 1721689001
+Architecture: arm_xscale
+Installed-Size: 2611898
+Filename: far2l_2.6.4.20241229_arm_xscale.ipk
+Size: 2605765
+SHA256sum: 4ae76d854bc913561f8f3c5cf85a6bdeb7252cbeb41ee4448e0de437d26cc3a7
+Description:  Linux port of FAR Manager v2 (http://farmanager.com)
+
